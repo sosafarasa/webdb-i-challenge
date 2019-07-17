@@ -22,7 +22,7 @@
 
 ## Update Bilbo Baggins record so that the postal code changes to "11122"
 
-- UPDATE Customers SET PostalCode = 11122 WHERE CustomerID = 95
+- UPDATE Customers SET PostalCode = 11122 WHERE CustomerID = 95 
 
 ## (Stretch) Find a query to discover how many different cities are stored in the Customers table. Repeats should not be double counted
 
